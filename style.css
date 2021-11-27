@@ -18,6 +18,7 @@ marquee {
 }
 
 .quti2 {
-    width: 80%;
+    width: 42%;
     border: 2px solid blue;
+    background-color: grey;
 }
