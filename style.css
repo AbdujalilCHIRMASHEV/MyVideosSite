@@ -16,3 +16,8 @@ h1 {
 marquee {
     padding: 10px;
 }
+
+.quti2 {
+    width: 80%;
+    border: 2px solid blue;
+}
